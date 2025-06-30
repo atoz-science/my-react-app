@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React and let it go and do some new.
+          i am updating App.js 
         </a>
       </header>
     </div>
